@@ -1,0 +1,46 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20em;
+}
+
+navbar {
+    text-align: center;
+}
+
+textarea {
+    margin-left: 8em;
+    margin-right: auto;
+    display: inline-block;
+    border-style: solid;
+    width: 80%;
+    border-radius: 15px;
+    resize: none;
+
+}
+
+#btni {
+    margin-top: 25px;
+    margin-left: 43%;
+    float: center;
+    border: 2px hidden grey;
+    text-align: center;
+    padding: 10px;
+}
+
+#btnii {
+    margin: 0 auto;
+    float: center;
+    border: 2px hidden grey;
+    text-align: center;
+    padding: 10px;
+}
+
+#btni:hover {
+    border: 1px solid #DCDCDC;
+}
+
+#btnii:hover {
+    border: 1px solid #DCDCDC;
+}
